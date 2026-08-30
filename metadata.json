@@ -1,0 +1,6 @@
+{
+  "name": "SmartBell IoT",
+  "description": "Sistem Otomasi Bel Sekolah Berbasis Mikrokontroler, Sinkronisasi NTP, Kontrol Relay Amplifier, Protokol MQTT, Multi Bluetooth Audio, Google Calendar, dan Enkripsi Cloud",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
